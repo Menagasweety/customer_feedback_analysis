@@ -656,4 +656,4 @@ The project can be summarized in one sentence:
 > **Python transparently identifies and prioritizes Critical customer feedback using explicit rules, while Gemini converts the selected customer complaints into concise, empathetic response drafts for human review.**
 
 
-This is live in Github link:
+This is live in Github link: https://github.com/Menagasweety/customer_feedback_analysis
